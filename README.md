@@ -1,4 +1,5 @@
 # Webpack
 
+webpack+babel
 
-This shows how import and export exports in js (browser)
+This shows how babel converts the ES6+ code into ES 5 
