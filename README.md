@@ -1,4 +1,7 @@
 # Webpack
 
 
-This shows how import and export exports in js (browser)
+Img loader using webpack
+Asset/Resource
+Asset
+
